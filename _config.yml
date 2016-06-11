@@ -3,7 +3,7 @@ title:       bglo
 email:       benlayer291@gmail.com
 author:      Ben Layer
 description: "A blog about career change and web development, written by Ben Layer."
-baseurl:     "bglo.co.uk"
+baseurl:     ""
 url:         "http://bglo.co.uk"
 date_format: "%b %-d, %Y"
 
