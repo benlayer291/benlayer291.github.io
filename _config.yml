@@ -2,8 +2,8 @@
 title:       bglo
 email:       benlayer291@gmail.com
 author:      Ben Layer
-description: ""
-baseurl:     ""
+description: "A blog about career change and web development, written by Ben Layer."
+baseurl:     "bglo.co.uk"
 url:         "http://bglo.co.uk"
 date_format: "%b %-d, %Y"
 
@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
