@@ -9,24 +9,26 @@
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  background: #fafafa;
+  background: #fff;
   border-radius: 0.1875em;
-  border: 1px solid #f3f3f3;
+  border: 1px solid #fff;
   color: #333333;
   padding: 1em 1.5em;
 }
 
 .pagination .disabled {
-  opacity: 0.5;
+  opacity: 1;
+  text-decoration: line-through;
 }
 
 .pagination a:hover, .pagination a:focus {
-  background: white;
-  color: #477dca;
+  background: #fff;
+  opacity: 0.75;
+  color: #333333;
 }
 
 .pagination a:active {
-  background: #f7f7f7;
+  background: #fff;
 }
 
 .pagination .button {
