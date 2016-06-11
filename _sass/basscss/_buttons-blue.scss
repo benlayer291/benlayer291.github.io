@@ -1,6 +1,7 @@
 .button-blue {
-  color: white;
-  background-color: $green;
+  color: $dark-gray;
+  background-color: #fff;
+  border: 1px solid $light-gray;
   border-radius: $border-radius;
   transition-duration: .1s;
   transition-timing-function: ease-out;
@@ -8,7 +9,8 @@
 }
 
 .button-blue:hover {
-  opacity: .875;
+  opacity: 1;
+  border-color: $dark-gray;
 }
 
 .button-blue:active,
@@ -18,10 +20,11 @@
 
 .button-blue:focus {
   outline: none;
-  box-shadow: 0 0 0 2px rgba(white, .5), 0 0 1px 4px rgba($green, .5);
+  box-shadow: 0 0 0 2px rgba($dark-gray, .5), 0 0 1px 4px rgba($dark-gray, .5);
 }
 
 .button-blue:disabled,
 .button-blue.is-disabled {
   opacity: .5;
+  text-decoration: line-through;
 }
