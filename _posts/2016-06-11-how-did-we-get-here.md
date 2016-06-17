@@ -21,7 +21,7 @@ After the 3 months were up at GA it was time to look for a job and following the
 
 Or so I thought.
 
-After a month, my initial enthusiasm and optimism had completely dissappeared. This was for a number of reasons* which I won't detail here but put simply, after a month or so, I had become completely disillusioned and somewhat depressed. This was not what I had given my teaching job up for, this was not what GA had led me to believe the coding world could offer.
+After a month, my initial enthusiasm and optimism had completely dissappeared. This was for a number of reasons* which I won't detail here but put simply, this was not what I had given my teaching job up for and was not what GA had led me to believe the coding world could offer.
 
 (*I must state that one of the reasons was not the people, all of whom were terribly nice.)
 
