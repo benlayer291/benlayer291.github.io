@@ -35,7 +35,7 @@ This brings us from the then to the now. To help the journey back to coding-deli
 
 Initial ideas of technologies to learn and play with:
 
-#####Front end frameworks
+###Front end frameworks
 
 - AngularJS 1.x
 
@@ -58,11 +58,11 @@ Another front-end framework that utilises web components. Whilst waiting for Ang
 
 ---
 
-#####Build tools
+###Build tools
 
 - Gulp. I've done a bit of this already but it would be good to experiement further. (Sorry Grunt).
 
-#####CSS
+###CSS
 
 - Sass. Again I've done a fair bit of this but it would good to improve the quality of the code I am writing.
 
@@ -74,7 +74,7 @@ Another front-end framework that utilises web components. Whilst waiting for Ang
 
 ---
 
-#####Testing
+###Testing
 
 - A semi-useful introduction to unit testing AngularJS 1.x on thinkster.io tutorial. There is a lot to learn and experiment with here. It's going to take time but can only be done through constant application and practice.
 
