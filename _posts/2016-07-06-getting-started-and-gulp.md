@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      Getting Started and Gulp
-date:       2016-07-06 10:25:00
-summary:    Getting started with gulp
+summary:    About writing a basic gulpfile
+published: true
 categories: code
 ---
 
