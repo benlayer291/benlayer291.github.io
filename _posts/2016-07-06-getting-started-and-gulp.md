@@ -6,8 +6,6 @@ published: true
 categories: code
 ---
 
-# Getting Started and Gulp
-
 Gulp is node based task runner. It is an alternative to another commonly used task runner, Grunt, and seems to be growing in popularity in comparison to Grunt. Is it better than Grunt? Some argue yes, others no but what can be said is that Gulp favours coding over the configuration style of Grunt. This allows for greater flexibiliy and often the quicker completion of tasks.
 
 In this post I'm going to go over learning to set up Gulp to be used on a project. This is the first of these posts and I'm starting here becuase it seems a logical first step when setting up something new. Overall I hope that when these posts are taken as a whole they describe a logical (and probably very long-winded) process to creating a web app. (Something that will then need to evolve over time given the quickly changing world of front-end development).
